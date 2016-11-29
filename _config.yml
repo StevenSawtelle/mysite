@@ -7,7 +7,7 @@ email: your-email@example.com
 twitter_username: your-name
 github_username:  lukas-h
 author: "Your Name"
-baseurl: "/mysite/material-theme"
+baseurl: "/mysite"
 
 # google analytics tracking code, please change the value
 g_analytics: ""
